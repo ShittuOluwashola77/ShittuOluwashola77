@@ -4,6 +4,6 @@ I am passionate in transforming complex datasets into actionable insights that s
 Currently, I am working as a data analyst at Paultimate Research Consult and I lead data-driven projects focused on healthcare, education finance and social sciences
 leveraging tools such as Tableau,Microsoft Excel, Power BI and SPSS
 I am an adept at critical thinking, identifying patterns, scenario planning and analysis, building predictive models, and conducting exploratory data analysis, and automating data pipelines to improve organizational and efficiency.
-I holds a Bachelor of Education Degree in Guidance and Counsellingfrom Lagos State University.
+I holds a Bachelor of Education Degree in Guidance and Counselling from Lagos State University.
 and I have completed my advanced studies in data analysis and currently pursueing  another advanced studies in data science.
-##fBeyond professional responsibilities I requently participates in community-based data initiatives, hackathons, and open-source projects.
+Beyond professional responsibilities I requently participates in community-based data initiatives, hackathons, and open-source projects.
